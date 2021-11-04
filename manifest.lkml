@@ -1,4 +1,4 @@
-project_name: "thelook_event"
+project_name: "carnow_poc"
 
 localization_settings: {
   default_locale: en
